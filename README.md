@@ -5,6 +5,7 @@
 #### these files are related to SNA fundamental concepts:
 
 - [Cheat Sheet: Social Network Analysis for Humanists](Fundamentals/Cheat%20Sheet:%20Social%20Network%20Analysis%20for%20Humanists.pdf)
+- [SNA Terminology Flashcards](https://quizlet.com/394054616/social-network-analysis-terms-flash-cards/)
 
 
 # Network Analysis with Python
