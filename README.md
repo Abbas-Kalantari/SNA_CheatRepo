@@ -6,6 +6,7 @@
 
 - [Cheat Sheet: Social Network Analysis for Humanists](Fundamentals/Cheat%20Sheet:%20Social%20Network%20Analysis%20for%20Humanists.pdf)
 - [SNA Terminology Flashcards](https://quizlet.com/394054616/social-network-analysis-terms-flash-cards/)
+- [Social Network Analysis Terminology](https://sites.google.com/a/umn.edu/social-network-analysis/terminology)
 
 
 # Network Analysis with Python
